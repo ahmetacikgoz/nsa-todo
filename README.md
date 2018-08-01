@@ -1,7 +1,7 @@
 # nsa-todo
 
 NSA = NSAnkara
-This application is a practice application for NSAnkara. It will have new topic branches every weak.
+This application is a practice application for NSAnkara. It will have new topic branches fortnightly.
 
 ## Contribution
 
